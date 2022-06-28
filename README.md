@@ -1,2 +1,2 @@
-# .github
-Bem à comunidade da Forus Social Network
+# Forus Community
+Bem-vindo à comunidade da Forus Social Network
