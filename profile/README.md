@@ -21,6 +21,12 @@ Forus is a brazillian social network developed by students. Since then, the Foru
 
 You can join our community on [Discord](https://discord.gg/rsJJ3dqF7D). Everyone is welcome!
 
+Follow us on our social media:
+- [Instagram](http://instagram.com/forus.app)
+- [LinkedIn](https://www.linkedin.com/company/forusapp/)
+- [Forus (@forus)](https://forus.app/forus)
+- [Forus (@forusbr)](https://forus.app/forusbr)
+
 ## Repositories
 
 <!-- alphabetical -->
