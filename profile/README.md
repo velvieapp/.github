@@ -8,7 +8,7 @@ Forus is a brazillian social network developed by students. Since then, the Foru
 - [Forus on iOS](https://apps.apple.com/us/app/forus-explore-the-world/id1613210612)
 - [Forus on Android](https://play.google.com/store/apps/details?id=app.forus)
 
-
+<a href="https://forus.app" target="_blank"><img height="240em" src="https://forus.app/images/website-preview-en.jpg" target="_blank"></a>
 
 ## Get involved!
 
@@ -20,7 +20,7 @@ Follow us on our social media:
 - [Forus (@forus)](https://forus.app/forus)
 - [Forus (@forusbr)](https://forus.app/forusbr)
 
-You can also help us financially:
+If you like our work, you can donate to us:
 - [Catarse](https://www.catarse.me/forus)
 - Bitcoin Wallet - bc1qn0r06gtwlamffet49fph9jnm9u2e2ylx5ns7qc
 - Ethereum / Polygon Wallet - 0x34e52D1bC1B1Ca4430F8a2ad26CAb192350EA45a
