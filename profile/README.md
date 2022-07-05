@@ -20,6 +20,11 @@ Follow us on our social media:
 - [Forus (@forus)](https://forus.app/forus)
 - [Forus (@forusbr)](https://forus.app/forusbr)
 
+You can also help us financially:
+- [Catarse](https://www.catarse.me/forus)
+- Bitcoin Wallet - bc1qn0r06gtwlamffet49fph9jnm9u2e2ylx5ns7qc
+- Ethereum / Polygon Wallet - 0x34e52D1bC1B1Ca4430F8a2ad26CAb192350EA45a
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
 
 ## Repositories
