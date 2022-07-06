@@ -29,4 +29,9 @@ If you like our work, you can donate to us:
 
 ## Repositories
 
+Start here and see usage examples and packages for web, mobile and back-end:
+
 <!-- alphabetical -->
+* [flutter-example](https://github.com/foruscommunity/flutter-example): Essential Flutter Mobile example.
+* [vue-nuxt-example](https://github.com/foruscommunity/vue-nuxt-example): Essential Vue/Nuxt example.
+* [go-rest-api-example](https://github.com/foruscommunity/go-rest-api-example): Essential Go Rest API example.
