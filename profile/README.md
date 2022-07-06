@@ -22,8 +22,8 @@ Follow us on our social media:
 
 If you like our work, you can donate to us:
 - [Catarse](https://www.catarse.me/forus)
-- Bitcoin Wallet - bc1qn0r06gtwlamffet49fph9jnm9u2e2ylx5ns7qc
-- Ethereum / Polygon Wallet - 0x34e52D1bC1B1Ca4430F8a2ad26CAb192350EA45a
+- Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
+- Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
 
