@@ -10,6 +10,8 @@ Forus is a brazillian social network developed by students. Since then, the Foru
 
 <a href="https://forus.app" target="_blank"><img max-height="240em" src="https://forus.app/images/website-preview-en.jpg" target="_blank"></a>
 
+---
+
 ## Get involved!
 
 You can join our community on [Discord](https://discord.gg/rsJJ3dqF7D). Everyone is welcome!
@@ -26,6 +28,10 @@ If you like our work, you can donate to us:
 - Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
+
+---
+
+## [Click here](https://github.com/foruscommunity/collection) to check out a collection of tutorials and best practices for web, mobile and back-end
 
 ## Repositories
 
