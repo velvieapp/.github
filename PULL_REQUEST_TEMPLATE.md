@@ -13,7 +13,7 @@
 - [ ] I added new tests to check the change I am making, or this PR is [test-exempt].
 - [ ] All existing and new tests are passing.
 
-If you need help, consider asking for advice on the #ajuda channel on [Discord].
+If you need help, consider asking for advice on the CODE channels on [Discord].
 
 <!-- Links -->
 
