@@ -19,8 +19,8 @@ You can join our community on [Discord](https://discord.gg/bY7wrX3TSK). Everyone
 Follow us on our social media:
 - [Instagram](http://instagram.com/forus.app)
 - [LinkedIn](https://www.linkedin.com/company/forusapp/)
-- [TikTok](http://tiktok.com/@forusapp)
-- [YouTube](http://youtube.com/forusapp)
+- [TikTok](http://tiktok.com/@forus.app)
+- [YouTube](http://youtube.com/@forusapp)
 - [Forus (@forus)](https://forus.app/forus)
 - [Forus (@forusbr)](https://forus.app/forusbr)
 
