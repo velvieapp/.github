@@ -19,11 +19,12 @@ You can join our community on [Discord](https://discord.gg/bY7wrX3TSK). Everyone
 Follow us on our social media:
 - [Instagram](http://instagram.com/forus.app)
 - [LinkedIn](https://www.linkedin.com/company/forusapp/)
+- [TikTok](http://tiktok.com/@forusapp)
+- [YouTube](http://youtube.com/forusapp)
 - [Forus (@forus)](https://forus.app/forus)
 - [Forus (@forusbr)](https://forus.app/forusbr)
 
 If you like our work, you can donate to us:
-- [Catarse](https://www.catarse.me/forus)
 - Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
 - Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
 
