@@ -8,11 +8,12 @@
 
 - You must list at least one issue.
 
+# Before/after screenshots:
+
+---
+
 If you need help, consider asking for advice on the CODE channels on [Discord].
 
 <!-- Links -->
 
 [Discord]: https://discord.gg/rsJJ3dqF7D
-
-# Before/after screenshots:
-
