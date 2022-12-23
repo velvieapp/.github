@@ -4,7 +4,7 @@
   
 ## Features/issues fixed:
 
-- [ ] *Description of feature/issue fixed.*
+- [x] *Description of feature/issue fixed.*
 
 - [ ] *Description of feature/issue fixed.*
 
