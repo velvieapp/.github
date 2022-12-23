@@ -1,19 +1,14 @@
-# PR Name
+# *PR Name*
 
-*Replace this paragraph with a description of what this PR is changing or adding, and why. 
-
+*Description of what this PR is changing or adding, and why*
+  
 # Features/issues fixed:
 
-*List which issues are fixed by this PR.
+- [ ] *Description*
 
-- You must list at least one issue.
+- [ ] *Description*
 
 # Before/after screenshots:
 
----
+[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
 
-If you need help, consider asking for advice on the CODE channels on [Discord].
-
-<!-- Links -->
-
-[Discord]: https://discord.gg/rsJJ3dqF7D
