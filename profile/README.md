@@ -1,4 +1,4 @@
-# Welcome to the Forus Community 👋
+# Welcome to Forus Community 👋
 
 Forus is a brazillian social network developed by students. Since then, the Forus Community has been created to make open source libraries available through GitHub. We want to create a large community that can help Forus grow and also make tutorials, templates and source codes available for free to use in any other projects.
 
