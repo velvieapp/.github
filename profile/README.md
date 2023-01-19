@@ -29,16 +29,3 @@ If you like our work, you can donate to us:
 - Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
-
----
-
-## [Click here](https://github.com/foruscommunity/collection) to check out a collection of tutorials and best practices for web, mobile and back-end
-
-## Repositories
-
-Start here and see usage examples and packages for web, mobile and back-end:
-
-<!-- alphabetical -->
-* [flutter_example](https://github.com/foruscommunity/flutter_example): Essential Flutter Mobile example.
-* [nuxt-example](https://github.com/foruscommunity/nuxt-example): Essential Vue/Nuxt example.
-* [go-rest-api-example](https://github.com/foruscommunity/go-rest-api-example): Essential Go Rest API example.
