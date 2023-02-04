@@ -10,5 +10,5 @@
 
 ## *Before/after screenshots:*
 
-[![Pinkie App](https://pinkie.app/icons/icon-128x128.png)](https://pinkie.app)
+[![Velvie App](https://velvie.app/icons/icon-128x128.png)](https://velvie.app)
 
