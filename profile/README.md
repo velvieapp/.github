@@ -1,26 +1,25 @@
-# Welcome to Pinkie App 👋
+# Welcome to Velvie App 👋
 
-Pinkie is a web and app builder developed by brazillian students.
+Velvie is a decentralized web3 social network developed by brazillian students.
 
-## Visit the Pinkie website and download the app!
+## Visit the Velvie website and download the app!
 
-- ### [Pinkie website](https://pinkie.app/)
-- ### [Pinkie on iOS](https://apps.apple.com/us/app/pinkie-app/id1613210612)
-- ### [Pinkie on Android](https://play.google.com/store/apps/details?id=app.pinkie)
+- ### [Velvie website](https://velvie.app/)
+- ### [Velvie on iOS](https://apps.apple.com/us/app/velvie-app/id1613210612)
+- ### [Velvie on Android](https://play.google.com/store/apps/details?id=app.velvie)
 
-<a href="https://pinkie.app" target="_blank"><img src="https://pinkie.app/images/website-preview-en.jpg" target="_blank"></a>
+<a href="https://velvie.app" target="_blank"><img src="https://velvie.app/images/website-preview-en.jpg" target="_blank"></a>
 
 ---
 
 ## Get involved!
 
 Follow us on our social media:
-- [Pinkie](https://pinkie.app/pinkie)
-- [Forus](https://forus.app/pinkie)
-- [Instagram](http://instagram.com/pinkie.app)
-- [LinkedIn](https://www.linkedin.com/company/pinkieapp/)
-- [TikTok](http://tiktok.com/@pinkie.app)
-- [YouTube](http://youtube.com/@pinkieapp)
+- [Velvie](https://velvie.app/velvie)
+- [Instagram](http://instagram.com/velvie.app)
+- [LinkedIn](https://www.linkedin.com/company/velvieapp/)
+- [TikTok](http://tiktok.com/@velvie.app)
+- [YouTube](http://youtube.com/@velvieapp)
 
 If you like our work, you can donate to us:
 - Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
