@@ -1,1 +1,1 @@
-To get help with Pinkie App, you can [Contact Us](https://pinkie.app/help/contact).
+To get help with Velvie App, you can [Contact Us](https://velvie.app/help/contact).
