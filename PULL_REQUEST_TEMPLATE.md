@@ -10,5 +10,5 @@
 
 ## *Before/after screenshots:*
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Pinkie App](https://pinkie.app/icons/icon-128x128.png)](https://pinkie.app)
 
