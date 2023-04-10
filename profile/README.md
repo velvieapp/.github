@@ -1,6 +1,6 @@
 # Welcome to Velvie App 👋
 
-Velvie is a decentralized web3 social network developed by brazillian students.
+Velvie is a decentralized social network developed by brazillian students.
 
 ## Visit the Velvie website and download the app!
 
