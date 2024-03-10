@@ -8,7 +8,7 @@ Velvie is a decentralized social network developed by brazillian students.
 
 ## If you like our work, you can donate to us:
 ### Bitcoin Wallet:
-`bc1qtaht59luh7lcxzshcgxelhm4520vgzvn27wfa7`
+`bc1q57909p6aahnq8yhlvt9llvqvek836uklyaw3tx`
 
 ### Ethereum / Polygon Wallet:
-`0x790dfDA9a22B14f566355dBdC19e70dA876F9A83`
+`0x36ae07dfb1a61c558bb3de508214a0020fb263de`
